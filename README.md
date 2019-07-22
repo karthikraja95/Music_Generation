@@ -1,4 +1,4 @@
-# char-rnn-keras
+# Music Generation
 
 Multi-layer recurrent neural networks for training and sampling from texts, inspired by [karpathy/char-rnn](https://github.com/karpathy/char-rnn).
 
